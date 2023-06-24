@@ -8,7 +8,7 @@ import lombok.*;
 @AllArgsConstructor
 @NoArgsConstructor
 
-public class requestDTO {
+public class RequestDTO {
 
     private String rqUID;
     private String clientId;
